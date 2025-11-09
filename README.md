@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-<img src="https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width="50px" align="left" />
+<img src="https://i.gifer.com/7pHT.gif" width="55px" align="left" />
 
 I’m **Mopy**, always exploring how things work — from code to systems — and learning whatever it takes to build something better.  
 When I’m not building or learning something new, you’ll probably find me **gaming**, **watching anime**, or **tweaking projects just for fun**.  
@@ -38,4 +38,4 @@ When I’m not building or learning something new, you’ll probably find me **g
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2b33,100:0a0a0a&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f5c65&height=100&section=footer&text=Thanks%20for%20Stopping%20By!%20👋🏻&fontSize=25&fontColor=8ee5ee&animation=twinkling" />
