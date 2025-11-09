@@ -38,5 +38,4 @@ When I’m not building or learning something new, you’ll probably find me **g
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&text=See%20You%20Next%20Commit!%20💻&fontSize=25&fontColor=58a6ff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&text=Glad%20You%20Made%20It%20Here%20💙&fontSize=25&fontColor=58a6ff&animation=fadeIn" />
