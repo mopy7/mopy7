@@ -1,5 +1,5 @@
-<!-- 🌊 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2b33,100:0a0a0a&height=150&text=Hi,%20I'm%20Mopy!&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Developer%20%7C%20Learner%20%7C%20Builder&descSize=27&descAlignY=85&section=header" />
+  <!-- 🌊 HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=150&text=Hi%2C%20I'm%20Mopy!&fontSize=46&fontColor=58a6ff&animation=fadeIn&desc=Learner%20%7C%20Developer%20%7C%20Gamer&descSize=22&descAlignY=75&section=header" />
 
 ---
 
@@ -33,9 +33,10 @@ When I’m not building or learning something new, you’ll probably find me **g
 
 ### 📊 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mopy7&layout=compact&langs_count=8&theme=github_dark&title_color=61DAFB&text_color=C8E1FF&bg_color=0,000000,091519&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mopy7&layout=compact&langs_count=8&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0,0d1117,161b22&border_color=30363d&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f5c65&height=100&section=footer&text=Thanks%20for%20Stopping%20By!%20👋🏻&fontSize=25&fontColor=8ee5ee&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&text=See%20You%20Next%20Commit!%20💻&fontSize=25&fontColor=58a6ff&animation=fadeIn" />
+
