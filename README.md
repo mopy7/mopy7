@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-<img align="left" src="https://i.gifer.com/5Mys.gif" width="180" alt="coding gif" />
+<img align="right" src="https://i.gifer.com/5Mys.gif" width="160" alt="itachi gif" />
 
 I’m **Mopy**, always exploring how things work — from code to systems — and learning whatever it takes to build something better.  
 When I’m not building or learning something new, you’ll probably find me **gaming**, **watching anime**, or **tweaking projects just for fun**.  
