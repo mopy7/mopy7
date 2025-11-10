@@ -1,5 +1,5 @@
-  <!-- 🌊 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=150&text=Hi%2C%20I'm%20Mopy!&fontSize=46&fontColor=58a6ff&animation=fadeIn&desc=Learner%20%7C%20Developer%20%7C%20Gamer&descSize=22&descAlignY=75&section=header" />
+<!-- 🌊 HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=150&text=Hi%2C%20I'm%20Mopy!&fontSize=46&fontColor=58a6ff&animation=fadeIn&desc=Developer%20•%20Learner%20•%20Gamer&descSize=22&descAlignY=75&section=header" />
 
 ---
 
@@ -16,7 +16,7 @@ When I’m not building or learning something new, you’ll probably find me **g
 ### 💻 Skills  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,postgres,sqlite,git&theme=dark" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ When I’m not building or learning something new, you’ll probably find me **g
 ### ⚙️ Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git,github,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,github,linux,render&theme=dark" />
   </a>
 </p>
 
