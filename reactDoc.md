@@ -22,7 +22,7 @@
 10. Conclusion
 
 
-## What is React?
+## 1. What is React?
 
 React is a popular **JavaScript library for building user interfaces (UI)**, especially for **single-page applications (SPAs)** where content updates dynamically without reloading the page. It allows developers to build **reusable UI components**, making development faster, more organized, and easier to maintain.
 
@@ -32,7 +32,7 @@ React is widely used in modern web development to build interactive applications
 
 ---
 
-## Library vs Framework
+## 2. Library vs Framework
 
 | Aspect | Library | Framework |
 |------|------|------|
@@ -45,7 +45,7 @@ React is considered a **library**, not a framework, because it focuses mainly on
 
 ---
 
-## The React Revolution
+## 3. The React Revolution
 
 React changed frontend development by introducing **component-based architecture** and efficient UI updates.
 
@@ -66,7 +66,7 @@ React changed frontend development by introducing **component-based architecture
 
 ---
 
-## History of React
+## 4. History of React
 
 ### Creator of React
 React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)**.
@@ -78,7 +78,7 @@ React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)*
 
 ---
 
-## Core Features of React
+## 5. Core Features of React
 
 1. **Component-Based Architecture**  
    UI is divided into reusable components.
@@ -97,7 +97,7 @@ React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)*
 
 ---
 
-## Setting Up a React Project with Vite
+## 6. Setting Up a React Project with Vite
 
 Vite is a modern frontend build tool that provides **faster development and instant server start** compared to traditional tools like Create React App.
 
@@ -132,7 +132,7 @@ The application will run at:
 http://localhost:5173
 ```
 
-## Vite + React Project Structure
+## 7. Vite + React Project Structure
 
 ### Folder Structure Overview
 ```bash
@@ -163,21 +163,21 @@ my-app
 * package.json – Contains project dependencies and scripts
 
 
-## Advantages of Using Vite
+## 8. Advantages of Using Vite
 
 * Faster startup time
 * Instant hot module replacement (HMR)
 * Optimized production build
 * Modern ES module support
 
-## When to Use React
+## 9. When to Use React
 
 * Building SPAs
 * Interactive dashboards
 * Complex UI applications
 * Large scalable frontends
 
-## Conclusion
+## 10. Conclusion
 
 React simplifies frontend development through reusable components, declarative UI, and efficient rendering with the Virtual DOM.  
 
