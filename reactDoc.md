@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  React Fundamentals and Project Setup
+  React Fundamentals and Project Setup with Vite
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="35"/>
 </h1>
 
 ## What is React?
