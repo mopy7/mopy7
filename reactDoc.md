@@ -49,12 +49,12 @@ React is considered a **library**, not a framework, because it focuses mainly on
 
 React changed frontend development by introducing **component-based architecture** and efficient UI updates.
 
-### Development Before React
+### 3.1 Development Before React
 - Heavy manual DOM manipulation  
 - Hard-to-maintain large codebases  
 - Performance issues during frequent UI updates  
 
-### Innovations Introduced by React
+### 3.2 Innovations Introduced by React
 1. **Component-Based Development**  
    Applications are divided into small reusable components.   
 2. **Virtual DOM**  
@@ -68,10 +68,10 @@ React changed frontend development by introducing **component-based architecture
 
 ## 4. History of React
 
-### Creator of React
+### 4.1 Creator of React
 React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)**.
 
-### Initial Release and Background
+### 4.2 Initial Release and Background
 - **Initial Release:** May 2013  
 - **Developed by:** Facebook  
 - **Purpose:** Improve performance of dynamic user interfaces.
@@ -103,7 +103,7 @@ Vite is a modern frontend build tool that provides **faster development and inst
 
 ---
 
-### 1. Creating a Vite + React Project
+### 6.1 Creating a Vite + React Project
 Run the following command to create a new Vite project:
 ```bash
 npm create vite@latest my-app
@@ -113,17 +113,17 @@ You will be prompted to choose:
 - **Framework:** React  
 - **Variant:** JavaScript or TypeScript
 
-### 2. Navigate to the Project Directory
+### 6.2 Navigate to the Project Directory
 ```bash
 cd my-app
 ```
 
-### 3. Install Project Dependencies
+### 6.3 Install Project Dependencies
 ```bash
 npm install
 ```
 
-### 4. Start the Development Server
+### 6.4 Start the Development Server
 ```bash
 npm run dev
 ```
@@ -134,7 +134,7 @@ http://localhost:5173
 
 ## 7. Vite + React Project Structure
 
-### Folder Structure Overview
+### 7.1 Folder Structure Overview
 ```bash
 my-app
 │
@@ -155,7 +155,7 @@ my-app
 └── README.md
 ```
 
-### Important Files
+### 7.2 Important Files
 * main.jsx – Entry point of the React application
 * App.jsx – Main React component
 * index.html – Root HTML file
