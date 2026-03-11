@@ -1,4 +1,7 @@
-# React Introduction
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  React Fundamentals and Project Setup
+</h1>
 
 ## What is React?
 
@@ -17,7 +20,7 @@ React is widely used in modern web development to build interactive applications
 | Definition | A collection of functions used when needed | A full structure that dictates how an application should be built |
 | Control | Developer controls the flow | Framework controls the flow |
 | Flexibility | Highly flexible | More structured |
-| Example | React | Angular, Django |
+| Example | React | Angular, Next.js |
 
 React is considered a **library**, not a framework, because it focuses mainly on the **UI layer**.
 
@@ -33,16 +36,12 @@ React changed frontend development by introducing **component-based architecture
 - Performance issues during frequent UI updates  
 
 ### Innovations Introduced by React
-
 1. **Component-Based Development**  
-   Applications are divided into small reusable components.
-
+   Applications are divided into small reusable components.   
 2. **Virtual DOM**  
    React compares the virtual DOM with the real DOM and updates only the changed elements.
-
 3. **Declarative UI**  
    Developers describe what the UI should look like, and React updates it automatically.
-
 4. **Performance Optimization**  
    Efficient rendering minimizes unnecessary updates.
 
@@ -50,7 +49,7 @@ React changed frontend development by introducing **component-based architecture
 
 ## History of React
 
-### Creater of React
+### Creator of React
 React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)**.
 
 ### Initial Release and Background
@@ -64,22 +63,16 @@ React was created by **Jordan Walke**, a software engineer at **Facebook (Meta)*
 
 1. **Component-Based Architecture**  
    UI is divided into reusable components.
-
 2. **Virtual DOM**  
    Improves performance by updating only necessary parts of the page.
-
 3. **JSX (JavaScript XML)**  
    Allows writing HTML-like syntax inside JavaScript.
-
 4. **One-Way Data Binding**  
    Data flows in a single direction.
-
 5. **Reusable Components**  
    Components can be reused across different parts of the application.
-
 6. **Strong Ecosystem**  
    Large ecosystem of libraries and tools.
-
 7. **React Hooks**  
    Enables state and lifecycle features in functional components.
 
@@ -143,15 +136,11 @@ my-app
 └── README.md
 ```
 
-### Important Files Files
-* main.jsx – Entry point of the React     application
-
+### Important Files
+* main.jsx – Entry point of the React application
 * App.jsx – Main React component
-
 * index.html – Root HTML file
-
 * vite.config.js – Vite configuration file
-
 * package.json – Contains project dependencies and scripts
 
 
