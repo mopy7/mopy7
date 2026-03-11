@@ -1,8 +1,26 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  React Fundamentals and Project Setup with Vite
+  React Fundamentals and Vite Setup
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="35"/>
 </h1>
+
+<p align="center">
+  A beginner-friendly guide to understanding React fundamentals and setting up a React project using Vite.
+</p>
+
+## Table of Contents
+
+1. What is React?
+2. Library vs Framework
+3. The React Revolution
+4. History of React
+5. Core Features of React
+6. Setting Up a React Project with Vite
+7. Vite + React Project Structure
+8. Advantages of Using Vite
+9. When to Use React
+10. Conclusion
+
 
 ## What is React?
 
