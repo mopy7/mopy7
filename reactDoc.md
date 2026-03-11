@@ -58,11 +58,11 @@ React changed frontend development by introducing **component-based architecture
 1. **Component-Based Development**  
    Applications are divided into small reusable components.   
 2. **Virtual DOM**  
-   React compares the virtual DOM with the real DOM and updates only the changed elements.
+   React compares the Virtual DOM with the Real DOM and updates only the changed elements.
 3. **Declarative UI**  
    Developers describe what the UI should look like, and React updates it automatically.
 4. **Performance Optimization**  
-   Efficient rendering minimizes unnecessary updates.
+   Efficient rendering minimizes unnecessary DOM updates.
 
 ---
 
@@ -108,10 +108,10 @@ Run the following command to create a new Vite project:
 ```bash
 npm create vite@latest my-app
 ```
-You will be prompted to choose options:
-Project name → my-app
-Framework → React
-Variant → JavaScript or TypeScript
+You will be prompted to choose:
+- **Project name:** my-app  
+- **Framework:** React  
+- **Variant:** JavaScript or TypeScript
 
 ### 2. Navigate to the Project Directory
 ```bash
@@ -179,4 +179,6 @@ my-app
 
 ## Conclusion
 
-Using Vite with React makes development faster and more efficient. It provides instant server startup, fast hot reloading, and optimized builds, making it a popular choice for modern React development.
+React simplifies frontend development through reusable components, declarative UI, and efficient rendering with the Virtual DOM.  
+
+When combined with **Vite**, developers benefit from faster development servers, instant hot module replacement, and optimized production builds, making it an excellent setup for modern React applications.
